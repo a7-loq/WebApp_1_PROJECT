@@ -1,4 +1,4 @@
-# WebApp_1_PROJECT
+# A7-LOQ® WebApp_1_PROJECT
 
 The project was a website, and it is the first choice to get an idea about coffee, its types, tools, and method of making it
 We are distinguished from others by our innovative ideas and our integrated modeling of the site.
