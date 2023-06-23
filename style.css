@@ -1,0 +1,107 @@
+
+body
+{
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(0, 0, 0);
+    direction: ltr;
+    text-size-adjust: 22px;
+}
+header
+{
+    background-color: rgb(255 240 221);
+    color: rgb(255 240 221);
+    padding-top: 0px;
+    min-height: 30px;
+    background-image: url("CCC.JPEG"); 
+    
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  a:active {
+    text-decoration: underline;
+  }
+  menu
+  {
+    width: 400px;
+    float: center;
+    height: 70px;
+  }
+  .header .menu a{
+    margin: 0 1rem;
+    font-size: 1.4rem;
+    color: rgb(255 240 221);
+    }
+    .header .menu a:hover{
+      color: rgb(255, 208, 143);
+  }
+  .header .search 
+{
+  width: 10px;
+  margin-top: 1px;
+  margin: 10px;
+}
+.srch  {
+  font-family: 'Times New Roman';
+  width: 500px;
+  height: 2.5rem;
+  background:transparent;
+  border: 0.1rem  solid rgb(255 240 221) ;
+  margin-top: 2%;
+  color:rgb(255 240 221) ;
+  font-size: 30px;
+  padding: 100%;
+  float: center;
+  
+}
+.btn {
+  width: 50px;
+  height: 2.5rem;
+  background-color: rgb(255 240 221);
+  
+
+}
+div.gallery {
+  margin: 40px;
+  border: 2px solid rgb(255 240 221);
+  float: left;
+ 
+}
+
+div.gallery:hover {
+  border: 20px solid rgb(255 240 221);
+}
+footer {
+
+  text-align: center;
+  padding: 2px;
+  background-color: rgb(255 240 221);
+  color: black;
+}
+.TY {
+
+  margin: 30PX;
+  font-size: 20px;
+  float: center;
+}
+button {
+  padding: 10px;
+  border: 1px solid gray;
+  background-color:#B4886B;
+  border-radius: 5px;
+  font: inherit;
+  margin: 20px;
+}
+
+
