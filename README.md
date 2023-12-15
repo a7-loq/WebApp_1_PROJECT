@@ -8,6 +8,6 @@ Our site is interested in offering the following :
 *Coffee Tools
 *coffee roasters
 *drip coffee
-We are always interested in giving an idea to the customer through the excellence that we offer him
+We are always interested in giving an idea to the customer through the excellence that we offer him.
 
 *A score of 30 out of 30 was obtained in the evaluation of the project by the course professor
